@@ -1,0 +1,4 @@
+{"p001":{"name":"ananya sharma","city":"guwahati","age":28,"gender":"female","height": 1.65,"weight":90,"bmi":33.06,"verdict":"obese"},
+"p002":{"name":"rohit singh","city":"delhi","age":35,"gender":"male","height": 1.8,"weight":85,"bmi":25.93,"verdict":"normal"},
+"p003":{"name":"sneha patel","city":"mumbai","age":30,"gender":"female","height": 1.7,"weight":70,"bmi":23.96,"verdict":"normal"},
+"p004":{"name":"arjun kumar","city":"bangalore","age":40,"gender":"male","height": 1.75,"weight":80,"bmi":26.12,"verdict":"normal"}}
